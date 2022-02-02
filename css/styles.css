@@ -1,0 +1,158 @@
+body{
+  font-family: 'Ubuntu';
+  text-align: center;
+}
+.container-fluid{
+  padding:3% 15% ;
+}
+
+/* Navbar */
+.navigation-site{
+  background-color: #AEFEFF;
+  padding:3% 15% ;
+}
+.nav-link{
+  font-size: 1.5rem;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #072227;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+/* Intro */
+.profile-pic{
+  width: 70%;
+  padding-bottom: 20px;
+}
+.intro{
+  margin-top: 3%;
+}
+.intro h1{
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 3.5rem;
+    color: #072227;
+}
+.intro h2{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2rem;
+  color: white;
+}
+.intro p{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #072227;
+}
+
+/* Skills */
+.skills-img{
+  padding-top: 20px;
+  width: 40%;
+}
+.skills h2{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2rem;
+  color: #072227;
+}
+.skills-h3{
+  font-family: 'Montserrat';
+  font-size: 400;
+  padding-top: 20px;
+  color: #072227;
+}
+.skills{
+  background-color: white;
+  color: #1572A1;
+}
+.progress{
+  margin-bottom: 2%;
+}
+/* Projects */
+#projects{
+  padding:3% 15% ;
+  background-color: #AEFEFF;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+#projects h1{
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 3.5rem;
+  color: #072227;
+}
+#projects h2{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2rem;
+  color: white;
+}
+#projects p{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #072227;
+  line-height: 2;
+}
+.carousel-control-next,.carousel-control-prev {
+    filter: invert(100%);
+}
+.project-img{
+  width: 50%;
+}
+
+
+/* Education */
+#education h1{
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 3.5rem;
+  color: #072227;
+  margin-bottom: 5%;
+}
+
+#education h2{
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 2rem;
+  color: #072227;
+}
+#education h3{
+  font-family: 'Montserrat';
+  font-size: 400;
+  padding-top: 20px;
+  color: #072227;
+}
+#education {
+  background-color: white;
+  color: #1572A1;
+  padding: 3% 7%;
+}
+hr{
+  border: 6px solid #072227;
+  border-bottom: none;
+  width:50%;
+  margin-left:25% !important;
+  margin-right:25% !important;
+}
+
+/* footer */
+#footer{
+  background-color: #AEFEFF;
+  padding: 3% 7%;
+  position: relative;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+
+#footer a{
+  color: #072227;
+}
