@@ -8,7 +8,7 @@ body{
 
 /* Navbar */
 .navigation-site{
-  background-color: #AEFEFF;
+  background-color: rgb(103,201,202);
   padding:3% 15% ;
 }
 .nav-link{
@@ -77,7 +77,7 @@ body{
 /* Projects */
 #projects{
   padding:3% 15% ;
-  background-color: #AEFEFF;
+  background-color: rgb(103,201,202);
 }
 .carousel-item {
   padding: 7% 15%;
@@ -145,7 +145,7 @@ hr{
 
 /* footer */
 #footer{
-  background-color: #AEFEFF;
+  background-color: rgb(103,201,202);
   padding: 3% 7%;
   position: relative;
 }
